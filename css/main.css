@@ -897,7 +897,7 @@ a.btn-sm:hover {
 	height: 100vh;
 	min-height: 100%;
 	width: 100%;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .4)), url(../img/home-bg.jpeg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .4)), url(../img/home-bg-copy.jpeg);
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
